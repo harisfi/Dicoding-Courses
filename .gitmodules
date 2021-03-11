@@ -1,0 +1,3 @@
+[submodule "BarVolume"]
+	path = BarVolume
+	url = https://github.com/harisfi/BarVolume
