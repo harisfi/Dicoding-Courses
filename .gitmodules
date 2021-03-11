@@ -1,3 +1,6 @@
 [submodule "BarVolume"]
 	path = BarVolume
 	url = https://github.com/harisfi/BarVolume
+[submodule "MyIntentApp"]
+	path = MyIntentApp
+	url = https://github.com/harisfi/MyIntentApp
