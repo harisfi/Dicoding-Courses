@@ -4,3 +4,6 @@
 [submodule "MyIntentApp"]
 	path = MyIntentApp
 	url = https://github.com/harisfi/MyIntentApp
+[submodule "MyIdlingResource"]
+	path = MyIdlingResource
+	url = https://github.com/harisfi/MyIdlingResource
