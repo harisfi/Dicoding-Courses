@@ -16,3 +16,6 @@
 [submodule "MyMediaPlayer"]
 	path = MyMediaPlayer
 	url = https://github.com/harisfi/MyMediaPlayer
+[submodule "MySound"]
+	path = MySound
+	url = https://github.com/harisfi/MySound
