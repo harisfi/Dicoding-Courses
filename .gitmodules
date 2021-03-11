@@ -7,3 +7,6 @@
 [submodule "MyIdlingResource"]
 	path = MyIdlingResource
 	url = https://github.com/harisfi/MyIdlingResource
+[submodule "LiveDataWithAPI"]
+	path = LiveDataWithAPI
+	url = https://github.com/harisfi/LiveDataWithAPI
