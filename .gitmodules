@@ -10,3 +10,6 @@
 [submodule "LiveDataWithAPI"]
 	path = LiveDataWithAPI
 	url = https://github.com/harisfi/LiveDataWithAPI
+[submodule "MyLiveData"]
+	path = MyLiveData
+	url = https://github.com/harisfi/MyLiveData
