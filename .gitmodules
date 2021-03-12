@@ -37,3 +37,6 @@
 [submodule "MyStackWidget"]
 	path = MyStackWidget
 	url = https://github.com/harisfi/MyStackWidget
+[submodule "MyWidgets"]
+	path = MyWidgets
+	url = https://github.com/harisfi/MyWidgets
