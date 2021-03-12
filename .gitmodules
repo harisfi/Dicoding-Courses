@@ -34,3 +34,6 @@
 [submodule "SimpleNotif"]
 	path = SimpleNotif
 	url = https://github.com/harisfi/SimpleNotif
+[submodule "MyStackWidget"]
+	path = MyStackWidget
+	url = https://github.com/harisfi/MyStackWidget
