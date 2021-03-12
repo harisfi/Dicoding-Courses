@@ -22,3 +22,6 @@
 [submodule "MyWebView"]
 	path = MyWebView
 	url = https://github.com/harisfi/MyWebView
+[submodule "MyFirebaseCloudMessaging"]
+	path = MyFirebaseCloudMessaging
+	url = https://github.com/harisfi/MyFirebaseCloudMessaging
