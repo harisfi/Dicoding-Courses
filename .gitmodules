@@ -28,3 +28,6 @@
 [submodule "StackNotif"]
 	path = StackNotif
 	url = https://github.com/harisfi/StackNotif
+[submodule "CustomNotif"]
+	path = CustomNotif
+	url = https://github.com/harisfi/CustomNotif
