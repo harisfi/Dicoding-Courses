@@ -31,3 +31,6 @@
 [submodule "CustomNotif"]
 	path = CustomNotif
 	url = https://github.com/harisfi/CustomNotif
+[submodule "SimpleNotif"]
+	path = SimpleNotif
+	url = https://github.com/harisfi/SimpleNotif
