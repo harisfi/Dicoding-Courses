@@ -25,3 +25,6 @@
 [submodule "MyFirebaseCloudMessaging"]
 	path = MyFirebaseCloudMessaging
 	url = https://github.com/harisfi/MyFirebaseCloudMessaging
+[submodule "StackNotif"]
+	path = StackNotif
+	url = https://github.com/harisfi/StackNotif
