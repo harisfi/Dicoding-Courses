@@ -19,3 +19,6 @@
 [submodule "MySound"]
 	path = MySound
 	url = https://github.com/harisfi/MySound
+[submodule "MyWebView"]
+	path = MyWebView
+	url = https://github.com/harisfi/MyWebView
