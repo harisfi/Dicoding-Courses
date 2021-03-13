@@ -58,3 +58,6 @@
 [submodule "MyViewModel"]
 	path = MyViewModel
 	url = https://github.com/harisfi/MyViewModel
+[submodule "MyDeepNavigation"]
+	path = MyDeepNavigation
+	url = https://github.com/harisfi/MyDeepNavigation
