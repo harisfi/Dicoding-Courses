@@ -43,3 +43,6 @@
 [submodule "MyPreLoadData"]
 	path = MyPreLoadData
 	url = https://github.com/harisfi/MyPreLoadData
+[submodule "MyNotesApp"]
+	path = MyNotesApp
+	url = https://github.com/harisfi/MyNotesApp
