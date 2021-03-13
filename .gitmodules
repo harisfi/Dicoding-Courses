@@ -46,3 +46,6 @@
 [submodule "MyNotesApp"]
 	path = MyNotesApp
 	url = https://github.com/harisfi/MyNotesApp
+[submodule "MySettingPreference"]
+	path = MySettingPreference
+	url = https://github.com/harisfi/MySettingPreference
