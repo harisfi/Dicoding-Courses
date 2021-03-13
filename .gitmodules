@@ -52,3 +52,6 @@
 [submodule "MySharedPreferences"]
 	path = MySharedPreferences
 	url = https://github.com/harisfi/MySharedPreferences
+[submodule "MyReadWriteFile"]
+	path = MyReadWriteFile
+	url = https://github.com/harisfi/MyReadWriteFile
