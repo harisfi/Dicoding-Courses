@@ -40,3 +40,6 @@
 [submodule "MyWidgets"]
 	path = MyWidgets
 	url = https://github.com/harisfi/MyWidgets
+[submodule "MyPreLoadData"]
+	path = MyPreLoadData
+	url = https://github.com/harisfi/MyPreLoadData
