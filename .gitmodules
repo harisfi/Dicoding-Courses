@@ -55,3 +55,6 @@
 [submodule "MyReadWriteFile"]
 	path = MyReadWriteFile
 	url = https://github.com/harisfi/MyReadWriteFile
+[submodule "MyViewModel"]
+	path = MyViewModel
+	url = https://github.com/harisfi/MyViewModel
