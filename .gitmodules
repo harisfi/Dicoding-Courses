@@ -49,3 +49,6 @@
 [submodule "MySettingPreference"]
 	path = MySettingPreference
 	url = https://github.com/harisfi/MySettingPreference
+[submodule "MySharedPreferences"]
+	path = MySharedPreferences
+	url = https://github.com/harisfi/MySharedPreferences
