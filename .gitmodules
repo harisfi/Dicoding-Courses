@@ -76,3 +76,6 @@
 [submodule "MyBroadcastReceiver"]
 	path = MyBroadcastReceiver
 	url = https://github.com/harisfi/MyBroadcastReceiver
+[submodule "MyService"]
+	path = MyService
+	url = https://github.com/harisfi/MyService
