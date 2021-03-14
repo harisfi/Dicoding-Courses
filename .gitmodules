@@ -79,3 +79,6 @@
 [submodule "MyService"]
 	path = MyService
 	url = https://github.com/harisfi/MyService
+[submodule "MyBackgroundThread"]
+	path = MyBackgroundThread
+	url = https://github.com/harisfi/MyBackgroundThread
