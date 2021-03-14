@@ -64,3 +64,6 @@
 [submodule "MyWorkManager"]
 	path = MyWorkManager
 	url = https://github.com/harisfi/MyWorkManager
+[submodule "MyJobScheduler"]
+	path = MyJobScheduler
+	url = https://github.com/harisfi/MyJobScheduler
