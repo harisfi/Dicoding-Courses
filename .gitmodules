@@ -61,3 +61,6 @@
 [submodule "MyDeepNavigation"]
 	path = MyDeepNavigation
 	url = https://github.com/harisfi/MyDeepNavigation
+[submodule "MyWorkManager"]
+	path = MyWorkManager
+	url = https://github.com/harisfi/MyWorkManager
