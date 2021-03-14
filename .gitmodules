@@ -67,3 +67,6 @@
 [submodule "MyJobScheduler"]
 	path = MyJobScheduler
 	url = https://github.com/harisfi/MyJobScheduler
+[submodule "MyQuote"]
+	path = MyQuote
+	url = https://github.com/harisfi/MyQuote
