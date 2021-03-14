@@ -73,3 +73,6 @@
 [submodule "MyAlarmManager"]
 	path = MyAlarmManager
 	url = https://github.com/harisfi/MyAlarmManager
+[submodule "MyBroadcastReceiver"]
+	path = MyBroadcastReceiver
+	url = https://github.com/harisfi/MyBroadcastReceiver
