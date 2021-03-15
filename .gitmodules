@@ -100,3 +100,6 @@
 [submodule "MyActionBar"]
 	path = MyActionBar
 	url = https://github.com/harisfi/MyActionBar
+[submodule "MyNavigation"]
+	path = MyNavigation
+	url = https://github.com/harisfi/MyNavigation
