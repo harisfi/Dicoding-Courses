@@ -85,3 +85,6 @@
 [submodule "MyUnitTesting"]
 	path = MyUnitTesting
 	url = https://github.com/harisfi/MyUnitTesting
+[submodule "MyLocalization"]
+	path = MyLocalization
+	url = https://github.com/harisfi/MyLocalization
