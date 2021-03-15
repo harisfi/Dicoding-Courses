@@ -91,3 +91,6 @@
 [submodule "MyTabLayout"]
 	path = MyTabLayout
 	url = https://github.com/harisfi/MyTabLayout
+[submodule "MyBottomNavigation"]
+	path = MyBottomNavigation
+	url = https://github.com/harisfi/MyBottomNavigation
