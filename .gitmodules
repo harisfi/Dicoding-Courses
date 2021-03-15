@@ -94,3 +94,6 @@
 [submodule "MyBottomNavigation"]
 	path = MyBottomNavigation
 	url = https://github.com/harisfi/MyBottomNavigation
+[submodule "MyNavigationDrawer"]
+	path = MyNavigationDrawer
+	url = https://github.com/harisfi/MyNavigationDrawer
