@@ -88,3 +88,6 @@
 [submodule "MyLocalization"]
 	path = MyLocalization
 	url = https://github.com/harisfi/MyLocalization
+[submodule "MyTabLayout"]
+	path = MyTabLayout
+	url = https://github.com/harisfi/MyTabLayout
