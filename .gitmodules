@@ -82,3 +82,6 @@
 [submodule "MyBackgroundThread"]
 	path = MyBackgroundThread
 	url = https://github.com/harisfi/MyBackgroundThread
+[submodule "MyUnitTesting"]
+	path = MyUnitTesting
+	url = https://github.com/harisfi/MyUnitTesting
