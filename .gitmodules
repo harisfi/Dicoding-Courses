@@ -106,3 +106,6 @@
 [submodule "MyRecyclerView"]
 	path = MyRecyclerView
 	url = https://github.com/harisfi/MyRecyclerView
+[submodule "MyCustomView"]
+	path = MyCustomView
+	url = https://github.com/harisfi/MyCustomView
