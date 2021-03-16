@@ -103,3 +103,6 @@
 [submodule "MyNavigation"]
 	path = MyNavigation
 	url = https://github.com/harisfi/MyNavigation
+[submodule "MyRecyclerView"]
+	path = MyRecyclerView
+	url = https://github.com/harisfi/MyRecyclerView
