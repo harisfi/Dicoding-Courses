@@ -112,3 +112,6 @@
 [submodule "MyViewAndViews"]
 	path = MyViewAndViews
 	url = https://github.com/harisfi/MyViewAndViews
+[submodule "MyTestingApp"]
+	path = MyTestingApp
+	url = https://github.com/harisfi/MyTestingApp
