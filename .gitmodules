@@ -115,3 +115,6 @@
 [submodule "MyTestingApp"]
 	path = MyTestingApp
 	url = https://github.com/harisfi/MyTestingApp
+[submodule "MyListView"]
+	path = MyListView
+	url = https://github.com/harisfi/MyListView
