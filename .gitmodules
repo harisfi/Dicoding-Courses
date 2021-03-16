@@ -118,3 +118,6 @@
 [submodule "MyListView"]
 	path = MyListView
 	url = https://github.com/harisfi/MyListView
+[submodule "MyFlexibleFragment"]
+	path = MyFlexibleFragment
+	url = https://github.com/harisfi/MyFlexibleFragment
