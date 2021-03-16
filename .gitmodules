@@ -109,3 +109,6 @@
 [submodule "MyCustomView"]
 	path = MyCustomView
 	url = https://github.com/harisfi/MyCustomView
+[submodule "MyViewAndViews"]
+	path = MyViewAndViews
+	url = https://github.com/harisfi/MyViewAndViews
