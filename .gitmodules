@@ -127,3 +127,6 @@
 [submodule "Submission-Github-User-2"]
 	path = Submission-Github-User-2
 	url = https://github.com/harisfi/Submission-Github-User-2
+[submodule "SubmissionGithubUser3"]
+	path = SubmissionGithubUser3
+	url = https://github.com/harisfi/SubmissionGithubUser3
