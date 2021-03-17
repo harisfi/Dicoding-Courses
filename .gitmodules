@@ -133,3 +133,6 @@
 [submodule "Movie-App"]
 	path = Movie-App
 	url = https://github.com/harisfi/Movie-App
+[submodule "Academies"]
+	path = Academies
+	url = https://github.com/harisfi/Academies
