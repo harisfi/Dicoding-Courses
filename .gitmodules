@@ -130,3 +130,6 @@
 [submodule "SubmissionGithubUser3"]
 	path = SubmissionGithubUser3
 	url = https://github.com/harisfi/SubmissionGithubUser3
+[submodule "Movie-App"]
+	path = Movie-App
+	url = https://github.com/harisfi/Movie-App
